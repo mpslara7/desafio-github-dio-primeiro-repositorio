@@ -1,0 +1,13 @@
+O Git é um sistema amplamente usado para controlar 
+e registrar as mudanças em projetos de software. 
+Ele permite que várias pessoas trabalhem juntas, 
+controlando todas as alterações feitas nos arquivos 
+ao longo do tempo. 
+Cada pessoa tem uma cópia completa do projeto em seu 
+computador e as alterações são registradas como "commits". 
+Isso facilita o trabalho colaborativo e o acompanhamento 
+do histórico do projeto.
+
+Link para Download do git: https://git-scm.com/downloads
+Link para documentação do git: https://git-scm.com/docs
+Link para comandos principais do git: https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/
